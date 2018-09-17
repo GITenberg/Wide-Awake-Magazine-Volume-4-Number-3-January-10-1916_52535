@@ -1,5 +1,8 @@
 _repo: Wide-Awake-Magazine-Volume-4-Number-3-January-10-1916_52535
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52535-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3848
     wikipedia: http://en.wikipedia.org/wiki/Burt_L._Standish
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52535#Wide-Awake-Magazine-Volume-4-Number-3-January-10-1916
 gutenberg_issued: '2016-07-09'
 gutenberg_type: Text
 identifiers:
